@@ -1,7 +1,7 @@
 ### EAII!
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidgd11&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgd11&size_weight=0&count_weight=0.5&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgd11&size_weight=0&count_weight=0.7&layout=compact&theme=gotham)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
