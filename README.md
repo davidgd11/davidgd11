@@ -3,6 +3,8 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidgd11&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgd11&layout=compact&theme=dark)
 
+<!--&size_weight=0&count_weight=0.5&layout=compact&theme=dark-->
+
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,py,js,react,java,arduino,bootstrap,cpp" />
