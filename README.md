@@ -12,7 +12,7 @@
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,py,js,react,java,arduino,bootstrap,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,py,js,react,java,sql,arduino,bootstrap,cpp)](https://skillicons.dev)
   
   ##
 
